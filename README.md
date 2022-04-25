@@ -20,3 +20,6 @@ QnA Maker
 Azure Bot Services
 
 ## [Demo Video](https://drive.google.com/file/d/14j5BTOLgEyHoXi229mMh8A1eDSI39eQa/view?usp=sharing)
+## Completion Mail
+![image](https://user-images.githubusercontent.com/85924533/165051368-7fbd17d8-0f70-43d4-b75b-83741943f1b3.png)
+
